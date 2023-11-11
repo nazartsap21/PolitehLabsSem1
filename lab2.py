@@ -26,16 +26,17 @@ a = 0
 b = 0.5
 n = 1
 sigma = 1
-sum = 1
+sum_ = 1
 
 while x <= b:
     while fabs(sigma) >= d:
         sigma *= (pow(-1, n) * (m + n - 1) * pow(x, n)) / factorial(n)
-        sum += sigma
+        sum_ += sigma
         n += 1
 
-    print(round(x, 2), "\t", sum)
+    print(round(x, 2), "\t", sum_)
     x += h
     n = 1
     sigma = 1
-    sum = 1
+    sum_ = 1
+
