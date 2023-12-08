@@ -1,0 +1,6 @@
+ERROR:root:Horse Valkyrie is already participant
+ERROR:root:Horse's age 2 is outside the acceptable range (3-7 years)
+ERROR:root:Horse Roxanne isn't in participant
+ERROR:root:Horse Valkyrie is already participant
+ERROR:root:Horse's age 2 is outside the acceptable range (3-7 years)
+ERROR:root:Horse Roxanne isn't in participant
